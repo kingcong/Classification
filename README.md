@@ -20,3 +20,17 @@ http://blog.csdn.net/fengchaokobe/article/details/7934865
 
 Hash算法：
 https://www.cnblogs.com/mengfanrong/p/4034950.html
+
+
+
+
+## 1.加解密类算法
+https://github.com/mitshell/CryptoMobile
+https://github.com/kokke/tiny-AES-c
+https://github.com/tarequeh/DES
+
+
+## 2.完整性保护
+https://programcodelib.com/2013/03/c-program-to-implement-crc-cyclic-redundancy-code/
+
+## 3.编解码
